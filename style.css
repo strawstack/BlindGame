@@ -9,5 +9,28 @@ html, body {
 body {
     font-family: 'Nunito', sans-serif;
     font-size: 1.2rem;
-    background: lightgrey;
+    background: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1.hide {
+    display: none;
+}
+
+ul {    
+    list-style: none;
+    margin-left: 0;
+}
+
+a {
+    color: #333;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: pink;
 }
