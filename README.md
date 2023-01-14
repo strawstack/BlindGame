@@ -1,5 +1,3 @@
-# BlindGame
+# WebTemplate
 
-A blindfold chess training podcast.
-
-![BlindGameLogo](./BlindGameLogo.png)
+A web template.
