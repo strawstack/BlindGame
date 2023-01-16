@@ -34,7 +34,7 @@
       <itunes:author>Richard Hayes</itunes:author>
       <title>Ep1 Introduction</title>
       <pubDate>15 Jan 2023 10:00:00 PDT</pubDate>
-      <enclosure url="audio/Ep1_Introduction.mp3" type="audio/mpeg" length="" />
+      <enclosure url="https://strawstack.github.io/BlindGame/audio/Ep1_Introduction.mp3" type="audio/mpeg" length="" />
       <itunes:duration></itunes:duration>
       <guid isPermaLink="false"></guid>
       <itunes:explicit>no</itunes:explicit>
@@ -50,7 +50,7 @@ https://richard.dev
       <itunes:author>Richard Hayes</itunes:author>
       <title>Ep2 Test</title>
       <pubDate>16 Jan 2023 10:00:00 PDT</pubDate>
-      <enclosure url="audio/ep_0_test.mp3" type="audio/mpeg" length="" />
+      <enclosure url="https://strawstack.github.io/BlindGame/audio/ep_0_test.mp3" type="audio/mpeg" length="" />
       <itunes:duration></itunes:duration>
       <guid isPermaLink="false"></guid>
       <itunes:explicit>no</itunes:explicit>
