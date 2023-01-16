@@ -6,7 +6,7 @@
         se.textContent = ep.querySelector("title").textContent;
 
         audio.querySelector("source").src = ep.querySelector("enclosure").getAttribute("url");
-        
+
         audio.load();
     }
 
@@ -31,5 +31,6 @@
             for (let item of items) {
                 createListItem(item);
             }
+            selectEpisode(items[0]);
         });
 })();
