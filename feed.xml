@@ -9,7 +9,9 @@
     <author>Richard Hayes</author>
     <itunes:author>Richard Hayes</itunes:author>
     <itunes:email>rhshadowgreen@gmail.com</itunes:email>
-    <itunes:category text="Chess" />
+    <itunes:category text="Games">
+      <itunes:category text="Hobbies"/>
+    </itunes:category>
     <image>
       <url>https://strawstack.github.io/BlindGame/BlindGameLogo.png</url>
       <title>Blind Game</title>
