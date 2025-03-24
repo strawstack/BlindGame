@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Blind Game</title>
+    <googleplay:author>Richard Hayes</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>San Francisco, California</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Richard Hayes</author>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>Richard Hayes</itunes:author>
+    <itunes:email>rhshadowgreen@gmail.com</itunes:email>
+    <itunes:category text="Games">
+      <itunes:category text="Hobbies"/>
+    </itunes:category>
+    <image>
+      <url>https://strawstack.github.io/BlindGame/BlindGameLogo.png</url>
+      <title>Blind Game</title>
+      <link>https://strawstack.github.io/BlindGame/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Richard Hayes</itunes:name>
+      <itunes:email>rhshadowgreen@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>chess,blindfold,github,web</itunes:keywords>
+    <copyright></copyright>
+    <description>A blindfold chess training podcast.</description>
+    <googleplay:image href="https://strawstack.github.io/BlindGame/BlindGameLogo.png" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Sat, 14 Jan 2023 10:00:00 PDT</pubDate>
+    <link>https://strawstack.github.io/BlindGame/feed.xml</link>
+    <itunes:image href="https://strawstack.github.io/BlindGame/BlindGameLogo.png" />
+
+    <item>
+      <author>Richard Hayes</author>
+      <itunes:author>Richard Hayes</itunes:author>
+      <title>Ep1 Introduction</title>
+      <pubDate>Sun, 15 Jan 2023 10:00:00 PDT</pubDate>
+      <enclosure url="https://strawstack.github.io/BlindGame/audio/ep1.mp3" type="audio/mpeg" length="" />
+      <itunes:duration></itunes:duration>
+      <guid isPermaLink="false">1</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Richard Hayes
+A blindfold chess training podcast.
+https://richard.dev
+        </description>
+    </item>
+
+    <item>
+      <author>Richard Hayes</author>
+      <itunes:author>Richard Hayes</itunes:author>
+      <title>Ep2 Leave the Door Unlocked</title>
+      <pubDate>Mon, 16 Jan 2023 10:00:00 PDT</pubDate>
+      <enclosure url="https://strawstack.github.io/BlindGame/audio/ep2.mp3" type="audio/mpeg" length="" />
+      <itunes:duration></itunes:duration>
+      <guid isPermaLink="false">2</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Richard Hayes
+A blindfold chess training podcast.
+https://richard.dev
+        </description>
+    </item>
+
+    <item>
+      <author>Richard Hayes</author>
+      <itunes:author>Richard Hayes</itunes:author>
+      <title>Ep3 Can I Make You a Sandwitch?</title>
+      <pubDate>Fri, 20 Jan 2023 10:00:00 PDT</pubDate>
+      <enclosure url="https://strawstack.github.io/BlindGame/audio/ep3.mp3" 
+      type="audio/mpeg" length="" />
+      <itunes:duration></itunes:duration>
+      <guid isPermaLink="false">3</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Richard Hayes
+A blindfold chess training podcast.
+https://richard.dev
+        </description>
+    </item>
+
+    <item>
+      <author>Richard Hayes</author>
+      <itunes:author>Richard Hayes</itunes:author>
+      <title>Ep4 Did You Order this from Doordash</title>
+      <pubDate>Fri, 27 Jan 2023 10:00:00 PDT</pubDate>
+      <enclosure url="https://strawstack.github.io/BlindGame/audio/ep4.mp3" 
+      type="audio/mpeg" length="" />
+      <itunes:duration></itunes:duration>
+      <guid isPermaLink="false">4</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Richard Hayes
+A blindfold chess training podcast.
+https://richard.dev
+        </description>
+    </item>
+
+    <item>
+      <author>Richard Hayes</author>
+      <itunes:author>Richard Hayes</itunes:author>
+      <title>Ep5 You Left Your Window Open</title>
+      <pubDate>Fri, 3 Feb 2023 10:00:00 PDT</pubDate>
+      <enclosure url="https://strawstack.github.io/BlindGame/audio/ep5.mp3" 
+      type="audio/mpeg" length="" />
+      <itunes:duration></itunes:duration>
+      <guid isPermaLink="false">5</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Richard Hayes
+A blindfold chess training podcast.
+https://richard.dev
+        </description>
+    </item>
+
+  </channel>
+</rss>
