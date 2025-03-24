@@ -17,6 +17,10 @@ body {
     align-items: center;
 }
 
+img {
+    max-width: 600px;
+}
+
 .backLink {
     align-self: flex-start;
     margin-left: 30px;
